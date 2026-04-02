@@ -22,7 +22,7 @@ st.markdown("""
 
 with st.sidebar:
     st.markdown("<h2 style='color:#00d4ff'>⚙️ Controls</h2>", unsafe_allow_html=True)
-    model_name = st.selectbox("🧠 AI Model", ["llama3-8b-8192", "llama3-70b-8192", "mixtral-8x7b-32768"])
+    model_name = st.selectbox("🧠 AI Model", ["llama-3.1-8b-instant", "llama-3.3-70b-versatile", "mixtral-8x7b-32768"])
     if st.button("🗑️ Clear Chat"):
         st.session_state.messages = []
         st.session_state.context = ""
