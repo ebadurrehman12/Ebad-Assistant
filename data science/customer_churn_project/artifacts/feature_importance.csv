@@ -1,0 +1,16 @@
+feature,importance
+num__total_charges,0.49681779496987766
+num__tenure_months,0.3851923160222931
+num__monthly_charges,0.043643439627196044
+num__support_calls,0.017532904436815728
+cat__contract_type_Month-to-month,0.0069135023614311985
+cat__internet_service_Fiber optic,0.00588765276451159
+cat__payment_method_Electronic check,0.005251785053780579
+cat__contract_type_One year,0.004445151292277686
+cat__internet_service_No,0.004312503754177475
+cat__payment_method_Credit card,0.0037772264931982126
+cat__payment_method_Mailed check,0.003428708016763563
+cat__payment_method_Bank transfer,0.003391439403259941
+cat__paperless_billing_No,0.0033334132074118263
+cat__internet_service_DSL,0.0032982637324245217
+cat__dependents_Yes,0.003265360008355361

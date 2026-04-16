@@ -1,0 +1,4 @@
+tenure_months,monthly_charges,total_charges,support_calls,contract_type,payment_method,internet_service,dependents,paperless_billing
+6,95.5,560.0,4,Month-to-month,Electronic check,Fiber optic,No,Yes
+48,65.0,3100.0,1,Two year,Credit card,DSL,Yes,No
+24,85.0,2040.0,2,One year,Bank transfer,Fiber optic,No,Yes
